@@ -8,7 +8,7 @@ The sample is prepared to demonstrate the dataset's structure and label distribu
 
 ## Important Note on Current Upload
 
-This pack was extracted from the five language files for this task: Sepedi, Setswana, Sesotho, and isiXhosa and isiZulu. Contains a sample of **1,500 records** from the five languages. 
+This pack was extracted from the five language files for this task: Sepedi, Setswana, Sesotho, isiXhosa and isiZulu. Contains a sample of **1,500 records** from the five languages. 
 
 ## Balanced Sample Design
 
