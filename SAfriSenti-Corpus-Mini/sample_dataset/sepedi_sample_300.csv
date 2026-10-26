@@ -1,4 +1,4 @@
-﻿sample_id,language,text,sentiment,code_switched_english,english_token_count,word_count,source
+sample_id,language,text,sentiment,code_switched_english,english_token_count,word_count,source
 sepedi_001,Sepedi,for to wake up with a banging hangover deep down ke bona le nna gore selemo sa kgaowa,neutral,True,1,18,Twitter
 sepedi_002,Sepedi,go lorile pleasure a rwele ring not wena mjolo wa trapa,neutral,True,2,11,Twitter
 sepedi_003,Sepedi,le nna nkao kwatela keo bona gore o king of tlc and you dont want menka kwata,negative,True,3,17,Twitter
@@ -162,6 +162,7 @@ sepedi_160,Sepedi,ba tena kudu they are desperate to ruin her name,positive,True
 sepedi_161,Sepedi,yoh ngwana batho eleng o complaina kgopela le buleleng dricks tlheng a ye stadium,neutral,True,1,14,Twitter
 sepedi_162,Sepedi,thats why kene ke thapa ka metsi a sediba a kopantsweng le mmu wa mabitla neke sa batle one masepa a,negative,True,4,21,Twitter
 sepedi_163,Sepedi,lol wena otlamo kgona ke sho,positive,True,1,6,Twitter
+sepedi_164,Sepedi,ke a leboga mmata ga ele kuku yona e tlo jewa kudu legono,positive,True,1,13,Twitter
 sepedi_165,Sepedi,id do anything for boroko right now literally anything,positive,True,2,9,Twitter
 sepedi_166,Sepedi,definition of this queen in particular beautiful intelligent positive uplifting honest loyal natural well spoken talented vibesloverparty starter etc,positive,True,1,15,Twitter
 sepedi_167,Sepedi,kgale ko gopotse chomi my friend,neutral,True,2,6,Twitter
@@ -171,6 +172,7 @@ sepedi_170,Sepedi,eyy ulimele loya sisi i can imagine how deep and painful the k
 sepedi_171,Sepedi,lol nah e ka se go tshware cos setse o a tseba nou,positive,True,2,13,Twitter
 sepedi_172,Sepedi,sorry wa papa ska nshapa asomblif,neutral,True,1,6,Twitter
 sepedi_173,Sepedi,motho a ska nrwaka ka taxing kere ke bapadisa ngwana kere nah ntatae o kae,neutral,True,1,15,Twitter
+sepedi_174,Sepedi,@user @user @user ke a leboga ngwana ko gae,positive,True,1,9,Twitter
 sepedi_175,Sepedi,a re nweng ka moka,neutral,True,1,5,Twitter
 sepedi_176,Sepedi,tsogang bathong ke nako yago pretender nkare everything its ok,neutral,True,1,10,Twitter
 sepedi_177,Sepedi,that road belong to mankweng taxi association but seshego think theyre the ownersof that mall,negative,True,4,15,Twitter
@@ -207,6 +209,7 @@ sepedi_207,Sepedi,serati sa ka mo gae or ra chommie ya ka it means kgale o ba ey
 sepedi_208,Sepedi,nnete ho tla loka mokgotsi have an awesome day,positive,True,2,9,Twitter
 sepedi_209,Sepedi,out of all that qvs exit saddens me the most also with dinky leaving the game so soon aowa we have suffered with this season hle,negative,True,9,26,Twitter
 sepedi_210,Sepedi,a re mpho is leaving tomorrow bathong joke e kana,negative,True,3,10,Twitter
+sepedi_211,Sepedi,@user ke tlo go fa tsona ka moka sesi khomoto ke a leboga lerato ka ka,positive,True,2,16,Twitter
 sepedi_212,Sepedi,maybe ntate sam o tla e etsa tjenahaele ee,neutral,True,1,9,Twitter
 sepedi_213,Sepedi,hi shaun hope you have something nice planned for the weekend,positive,True,3,11,Twitter
 sepedi_214,Sepedi,eish aowa ere gona le lebale,positive,True,1,6,Twitter
@@ -233,6 +236,7 @@ sepedi_234,Sepedi,bathong why didnt you just say iron deficiency,neutral,True,3,
 sepedi_235,Sepedi,ufebe u sis womfaz wakhe but she blames umfetjwa uthi yena he was drunk,negative,True,4,14,Twitter
 sepedi_236,Sepedi,nkase kgone hotla abutaka wale nyaopes oteng so ke gadile borotho,positive,True,1,11,Twitter
 sepedi_237,Sepedi,ga re tsebe maybe wa claima,negative,True,1,6,Twitter
+sepedi_238,Sepedi,@user go monate ga ke sa nyaka go bowa,positive,True,2,9,Twitter
 sepedi_239,Sepedi,sbwl one day when at that part of the world just to meet the legendary ntate enos mafokate,neutral,True,5,18,Twitter
 sepedi_240,Sepedi,you deserve it all mababe naledi mogadime,positive,True,2,7,Twitter
 sepedi_241,Sepedi,haha plus gwa fisha lmao,neutral,True,1,5,Twitter
