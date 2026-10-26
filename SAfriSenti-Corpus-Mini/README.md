@@ -22,7 +22,8 @@ Each included language contains 100 positive, 100 negative, and 100 neutral reco
 | Sesotho | 100 | 100 | 100 | 300 |
 | Setswana | 100 | 100 | 100 | 300 |
 | isiXhosa | 100 | 100 | 100 | 300 |
-| **Total** | **400** | **400** | **400** | **1200** |
+| isizulu | 100 | 100 | 100 | 300
+| **Total** | **500** | **500** | **500** | **1500** |
 
 ## Readability and English Code-Switching Selection
 
